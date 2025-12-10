@@ -10,7 +10,7 @@ import numpy as np
 
 # --- CẤU HÌNH TRANG ---
 st.set_page_config(
-    page_title="AI Plant Doctor Pro",
+    page_title="AI Plant Disease Diagnosis",
     page_icon="🌿",
     layout="wide",
     initial_sidebar_state="expanded"
