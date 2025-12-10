@@ -3,3 +3,6 @@ opencv-python
 numpy
 matplotlib
 roboflow
+pillow
+streamlit
+plotly
